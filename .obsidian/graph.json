@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "- file: _ - path: periodic - path: journal  -  path: templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.987890625,
+  "lineSizeMultiplier": 1.56630091292135,
+  "collapse-forces": false,
+  "centerStrength": 0.446508290816327,
+  "repelStrength": 9.30484693877551,
+  "linkStrength": 0.483976403061224,
+  "linkDistance": 261,
+  "scale": 0.2029436110297408,
+  "close": true
+}

@@ -1,0 +1,36 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "highlights",
+      "relativePath": "highlights"
+    },
+    {
+      "name": "periodic",
+      "relativePath": "periodic"
+    },
+    {
+      "name": "templates",
+      "relativePath": "templates"
+    },
+    {
+      "name": "notes",
+      "relativePath": "notes"
+    },
+    {
+      "name": "daily",
+      "relativePath": "periodic/daily"
+    },
+    {
+      "name": "periodic",
+      "relativePath": "templates/periodic"
+    },
+    {
+      "name": "snippet",
+      "relativePath": "templates/snippet"
+    }
+  ]
+}

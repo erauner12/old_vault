@@ -1,0 +1,70 @@
+{
+  "version": "0.2.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "logbook/work",
+              "displayTitle": "Logbook"
+            },
+            {
+              "tag": "planner/home",
+              "displayTitle": "Planned"
+            }
+          ],
+          "completedCount": 100,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "periodic"
+            },
+            {
+              "tag": "pathFilter",
+              "data": "Day Planners"
+            }
+          ],
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Work"
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "logbook/home",
+              "displayTitle": "Logbook"
+            },
+            {
+              "tag": "planner/home",
+              "displayTitle": "Planned"
+            }
+          ],
+          "completedCount": 100,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "periodic"
+            },
+            {
+              "tag": "pathFilter",
+              "data": "Day Planners"
+            }
+          ],
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Home"
+        }
+      }
+    ],
+    "globalSettings": {
+      "hideCompletedSubtasks": false,
+      "ignorePaths": [],
+      "subTaskDisplayLimit": null
+    }
+  }
+}

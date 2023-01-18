@@ -1,0 +1,4142 @@
+[
+  {
+    "fileName": "👔 DNS Record Layout",
+    "relativePath": "👔 DNS Record Layout.md",
+    "tags": [
+      "🌲/👔",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201071129,
+      "date": "2022-01-07",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "DNS Record Layout",
+        "level": 1
+      },
+      {
+        "heading": "Internal",
+        "level": 2
+      },
+      {
+        "heading": "External",
+        "level": 2
+      },
+      {
+        "heading": "Validate",
+        "level": 2
+      },
+      {
+        "heading": "external",
+        "level": 3
+      },
+      {
+        "heading": "API",
+        "level": 4
+      },
+      {
+        "heading": "A Record",
+        "level": 5
+      },
+      {
+        "heading": "CNAME Record apis - First",
+        "level": 5
+      },
+      {
+        "heading": "CNAME Record - Second",
+        "level": 5
+      },
+      {
+        "heading": "internal",
+        "level": 3
+      },
+      {
+        "heading": "API",
+        "level": 4
+      },
+      {
+        "heading": "CNAME",
+        "level": 5
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "👔 DNS Record Layout",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "test",
+    "relativePath": "notes/test.md"
+  },
+  {
+    "fileName": "Unit Testing Framework",
+    "relativePath": "notes/Unit Testing Framework.md",
+    "frontmatter": {
+      "zet": 202205021236,
+      "date": "2022-05-02",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Unit Testing Framework",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "python prod automation",
+    "relativePath": "notes/python prod automation.md",
+    "frontmatter": {
+      "zet": 202205091027,
+      "date": "2022-05-09",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "python prod automation",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "SSL Cert Management Project",
+    "relativePath": "notes/SSL Cert Management Project.md",
+    "frontmatter": {
+      "zet": 202205180954,
+      "date": "2022-05-18",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "SSL Cert Management Project",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Notes on readwise",
+    "relativePath": "notes/Notes on readwise.md",
+    "frontmatter": {
+      "zet": 202205171150,
+      "date": "2022-05-17",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Notes on readwise",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "work kubectl",
+    "relativePath": "work kubectl.md",
+    "tags": [
+      "👔/❓",
+      "🌲/⚙"
+    ],
+    "frontmatter": {
+      "zet": 202201131108,
+      "date": "2022-01-13",
+      "date created": "Thursday, January 13th 2022, 11:08:47 am",
+      "date modified": "Thursday, January 13th 2022, 11:15:43 am",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 165
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Work Kubectl",
+        "level": 1
+      },
+      {
+        "heading": "Update Kubectl Config",
+        "level": 2
+      },
+      {
+        "heading": "OCI - Get Db Secret Password",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Kubernetes"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "work kubectl",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "yaml frontmatter",
+    "relativePath": "templates/yaml frontmatter.md",
+    "frontmatter": {
+      "date": "<% tp.date.now(\"YYYY-MM-DD\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 59
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "yaml frontmatter",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "things 3 template",
+    "relativePath": "templates/things 3 template.md",
+    "tags": [
+      "📥/❓",
+      "🌱/✅"
+    ],
+    "frontmatter": {
+      "zet": "<% tp.date.now(\"YYYYMMDDHHmm\") %>",
+      "date": "<% tp.date.now(\"YYYY-MM-DD\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 96
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "things 3 template",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "test customjs template",
+    "relativePath": "templates/test customjs template.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "test customjs template",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "vscode",
+    "relativePath": "templates/snippet/vscode.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_snippet",
+        "link": "vscode",
+        "relativePath": "templates/snippet/_Index_of_snippet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "meta init",
+    "relativePath": "templates/snippet/meta init.md",
+    "tags": [
+      "🌱/❓"
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_snippet",
+        "link": "meta init",
+        "relativePath": "templates/snippet/_Index_of_snippet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "dv pull in source 2",
+    "relativePath": "templates/snippet/dv pull in source 2.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_snippet",
+        "link": "dv pull in source 2",
+        "relativePath": "templates/snippet/_Index_of_snippet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Index_of_snippet",
+    "relativePath": "templates/snippet/_Index_of_snippet.md",
+    "links": [
+      {
+        "link": "Copy to clipboard",
+        "relativePath": "templates/snippet/Copy to clipboard.md"
+      },
+      {
+        "link": "dv pull in source 2",
+        "relativePath": "templates/snippet/dv pull in source 2.md"
+      },
+      {
+        "link": "Incoming Links",
+        "relativePath": "templates/snippet/Incoming Links.md"
+      },
+      {
+        "link": "meta init",
+        "relativePath": "templates/snippet/meta init.md"
+      },
+      {
+        "link": "vscode",
+        "relativePath": "templates/snippet/vscode.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "_Index_of_snippet",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Incoming Links",
+    "relativePath": "templates/snippet/Incoming Links.md",
+    "headings": [
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_snippet",
+        "link": "Incoming Links",
+        "relativePath": "templates/snippet/_Index_of_snippet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Copy to clipboard",
+    "relativePath": "templates/snippet/Copy to clipboard.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_snippet",
+        "link": "Copy to clipboard",
+        "relativePath": "templates/snippet/_Index_of_snippet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "project_item_template",
+    "relativePath": "templates/project_item_template.md",
+    "tags": [
+      "project"
+    ],
+    "frontmatter": {
+      "alias": [
+        {
+          "{ VALUE:⚒ Add Project }": null
+        }
+      ],
+      "status": null,
+      "subtitle": {
+        "{ VALUE:Project Subtitle }": null
+      },
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 102
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "{{VALUE:⚒ Add Project}}",
+        "level": 1
+      },
+      {
+        "heading": "Project Info",
+        "level": 2
+      },
+      {
+        "heading": "Thoughts",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      },
+      {
+        "heading": "Review questions",
+        "level": 2
+      },
+      {
+        "heading": "Tasks",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "yearly",
+    "relativePath": "templates/periodic/yearly.md",
+    "tags": [
+      "🌲/🌤",
+      "⌛/yearly"
+    ],
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      },
+      {
+        "heading": "Yearly Review",
+        "level": 2
+      },
+      {
+        "heading": "Review",
+        "level": 2
+      },
+      {
+        "heading": "Metadata",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Goals"
+      },
+      {
+        "link": "{{date:YYYY-MM}}"
+      },
+      {
+        "link": "{{date:YYYY}}-Q{{date:Q}}"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_periodic",
+        "link": "yearly",
+        "relativePath": "templates/periodic/_Index_of_periodic.md"
+      }
+    ]
+  },
+  {
+    "fileName": "weekly",
+    "relativePath": "templates/periodic/weekly.md",
+    "tags": [
+      "🌲/🌤",
+      "⌛/weekly"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      },
+      {
+        "heading": "Days",
+        "level": 2
+      },
+      {
+        "heading": "SUN",
+        "level": 3
+      },
+      {
+        "heading": "MON",
+        "level": 3
+      },
+      {
+        "heading": "TUE",
+        "level": 3
+      },
+      {
+        "heading": "WED",
+        "level": 3
+      },
+      {
+        "heading": "THU",
+        "level": 3
+      },
+      {
+        "heading": "FRI",
+        "level": 3
+      },
+      {
+        "heading": "SAT",
+        "level": 3
+      },
+      {
+        "heading": "Review",
+        "level": 2
+      },
+      {
+        "heading": "Metadata",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Goals"
+      },
+      {
+        "link": "{{date:YYYY}}-W{{date:ww}}"
+      },
+      {
+        "link": "{{date:YYYY-MM}}"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_periodic",
+        "link": "weekly",
+        "relativePath": "templates/periodic/_Index_of_periodic.md"
+      }
+    ]
+  },
+  {
+    "fileName": "quarterly",
+    "relativePath": "templates/periodic/quarterly.md",
+    "tags": [
+      "🌲/🌤",
+      "⌛/quarterly"
+    ],
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      },
+      {
+        "heading": "Quarterly Review",
+        "level": 2
+      },
+      {
+        "heading": "Journal Entries",
+        "level": 2
+      },
+      {
+        "heading": "Metadata",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "{{date:YYYY}}-Q{{date:Q}}"
+      },
+      {
+        "link": "{{date:YYYY}}"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_periodic",
+        "link": "quarterly",
+        "relativePath": "templates/periodic/_Index_of_periodic.md"
+      }
+    ]
+  },
+  {
+    "fileName": "monthly",
+    "relativePath": "templates/periodic/monthly.md",
+    "tags": [
+      "🌲/🌤",
+      "⌛/monthly"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      },
+      {
+        "heading": "Monthly Review",
+        "level": 2
+      },
+      {
+        "heading": "Review",
+        "level": 2
+      },
+      {
+        "heading": "Journal Entries",
+        "level": 2
+      },
+      {
+        "heading": "Metadata",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Goals"
+      },
+      {
+        "link": "{{date:YYYY-MM}}"
+      },
+      {
+        "link": "{{date:YYYY}}-Q{{date:Q}}"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_periodic",
+        "link": "monthly",
+        "relativePath": "templates/periodic/_Index_of_periodic.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Index_of_periodic",
+    "relativePath": "templates/periodic/_Index_of_periodic.md",
+    "links": [
+      {
+        "link": "Daily",
+        "relativePath": "templates/periodic/Daily.md"
+      },
+      {
+        "link": "monthly",
+        "relativePath": "templates/periodic/monthly.md"
+      },
+      {
+        "link": "quarterly",
+        "relativePath": "templates/periodic/quarterly.md"
+      },
+      {
+        "link": "weekly",
+        "relativePath": "templates/periodic/weekly.md"
+      },
+      {
+        "link": "yearly",
+        "relativePath": "templates/periodic/yearly.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "_Index_of_periodic",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Daily",
+    "relativePath": "templates/periodic/Daily.md",
+    "tags": [
+      "dq/sleep",
+      "dq/growth",
+      "dq/friend",
+      "dq/learn",
+      "dq/create",
+      "dq/exercise",
+      "dq/productive",
+      "⌛/daily",
+      "🌲/🌤"
+    ],
+    "frontmatter": {
+      "date": "<% tp.date.now(\"YYYY-MM-DD\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 45
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "📆 <%tp.file.title%> <svg viewBox=\"0 0 3760 100\"> <title>Timeline 2022</title> <g class='bars'> <rect fill='#0066FF' x='0' width='310' height='25'></rect> <rect fill='#3366AA' x='320' width='280' height='25'></rect> <rect fill='#99AA33' x='610' width='310' height='25'></rect> <rect fill='#99EE33' x='930' width='300' height='25'></rect> <rect fill='green' x='1240' width='310' height='25'></rect> <rect fill='yellow' x='1560' width='300' height='25'></rect> <rect fill='gold' x='1870' width='310' height='25'></rect> <rect fill='cyan' x='2190' width='310' height='25'></rect> <rect fill='orange' x='2510' width='300' height='25'></rect> <rect fill='red' x='2820' width='310' height='25'></rect> <rect fill='brown' x='3140' width='300' height='25'></rect> <rect fill='white' x='3450' width='310' height='25'></rect> </g> <g class='labels' style=\"font-size:50px;\" text-anchor=\"middle\"> <text fill='#747474' x='0' y='80' text-anchor=\"start\">January</text> <text fill='#747474' x='320' y='80' text-anchor=\"start\">February</text> <text fill='#747474' x='610' y='80' text-anchor=\"start\">March</text> <text fill='#747474' x='930' y='80' text-anchor=\"start\">April</text> <text fill='#747474' x='1240' y='80' text-anchor=\"start\">May</text> <text fill='#747474' x='1560' y='80' text-anchor=\"start\">June</text> <text fill='#747474' x='1870' y='80' text-anchor=\"start\">July</text> <text fill='#747474' x='2190' y='80' text-anchor=\"start\">August</text> <text fill='#747474' x='2510' y='80' text-anchor=\"start\">September</text> <text fill='#747474' x='2820' y='80' text-anchor=\"start\">October</text> <text fill='#747474' x='3140' y='80' text-anchor=\"start\">November</text> <text fill='#747474' x='3450' y='80' text-anchor=\"start\">December</text> </g> <g> <circle cx=\"{{date:DDD}}0\" cy=\"14\" r=\"15\" stroke=\"black\" fill=\"white\" /> </g> </svg>",
+        "level": 1
+      },
+      {
+        "heading": "Daily Questions",
+        "level": 2
+      },
+      {
+        "heading": "How can I be better today?",
+        "level": 3
+      },
+      {
+        "heading": "Logbook",
+        "level": 2
+      },
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Journal",
+        "level": 2
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_periodic",
+        "link": "Daily",
+        "relativePath": "templates/periodic/_Index_of_periodic.md"
+      }
+    ]
+  },
+  {
+    "fileName": "goal_item_template",
+    "relativePath": "templates/goal_item_template.md",
+    "tags": [
+      "goal"
+    ],
+    "frontmatter": {
+      "alias": {
+        "{ VALUE:Goal }": null
+      },
+      "Type": null,
+      "Progress": 0,
+      "Target": {
+        "{ VALUE:🎯 Target (number) }": null
+      },
+      "Reason": {
+        "{ VALUE:Why this goal? }": null
+      },
+      "Timespan": {
+        "{\n  VALUE:10 Years,\n  5 Years,\n  3 Years,\n  1 Year,\n  6 Months,\n  1 Month,\n  1 Week\n}": null
+      },
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 8,
+          "col": 3,
+          "offset": 211
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "What does success look like? What are the key results?",
+        "level": 2
+      },
+      {
+        "heading": "Related core values",
+        "level": 2
+      },
+      {
+        "heading": "Projects to make this happen",
+        "level": 2
+      },
+      {
+        "heading": "Ideas",
+        "level": 3
+      },
+      {
+        "heading": "Created projects",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "_Index_of_templates",
+    "relativePath": "templates/_Index_of_templates.md",
+    "links": [
+      {
+        "link": "admon status triforce",
+        "relativePath": "templates/admon status triforce.md"
+      },
+      {
+        "link": "course",
+        "relativePath": "templates/course.md"
+      },
+      {
+        "link": "dataview template",
+        "relativePath": "templates/dataview template.md"
+      },
+      {
+        "link": "Default Note Note Composer",
+        "relativePath": "templates/Default Note Note Composer.md"
+      },
+      {
+        "link": "Default Note",
+        "relativePath": "templates/Default Note.md"
+      },
+      {
+        "link": "Meeting Notes",
+        "relativePath": "templates/Meeting Notes.md"
+      },
+      {
+        "link": "_Index_of_periodic",
+        "relativePath": "templates/periodic/_Index_of_periodic.md"
+      },
+      {
+        "link": "_Index_of_snippet",
+        "relativePath": "templates/snippet/_Index_of_snippet.md"
+      },
+      {
+        "link": "Template.excalidraw",
+        "relativePath": "templates/Template.excalidraw.md"
+      },
+      {
+        "link": "test customjs template",
+        "relativePath": "templates/test customjs template.md"
+      },
+      {
+        "link": "things 3 template",
+        "relativePath": "templates/things 3 template.md"
+      },
+      {
+        "link": "yaml frontmatter",
+        "relativePath": "templates/yaml frontmatter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "dataview template",
+    "relativePath": "templates/dataview template.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "dataview template",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "admon status triforce",
+    "relativePath": "templates/admon status triforce.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "admon status triforce",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "course",
+    "relativePath": "templates/course.md",
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Answer",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "course",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Template.excalidraw",
+    "relativePath": "templates/Template.excalidraw.md",
+    "tags": [
+      "🌱/✏️"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "tag": "🌱/✏️",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 45
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "Template.excalidraw",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Meeting Notes",
+    "relativePath": "templates/Meeting Notes.md",
+    "tags": [
+      "🌱/👔"
+    ],
+    "frontmatter": {
+      "zet": "<% tp.date.now(\"YYYYMMDDHHmm\") %>",
+      "date": "<% tp.date.now(\"YYYY-MM-DD\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 96
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "Meeting Notes",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Default Note",
+    "relativePath": "templates/Default Note.md",
+    "frontmatter": {
+      "zet": "<% tp.date.now(\"YYYYMMDDHHmm\") %>",
+      "date": "<% tp.date.now(\"YYYY-MM-DD\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 96
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "<%tp.file.title%>",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "Default Note",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Default Note Note Composer",
+    "relativePath": "templates/Default Note Note Composer.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": "<% tp.date.now(\"YYYYMMDDHHmm\") %>",
+      "date": "<% tp.date.now(\"YYYY-MM-DD\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 96
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "{{newTitle}}",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "{{fromTitle}}"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_templates",
+        "link": "Default Note Note Composer",
+        "relativePath": "templates/_Index_of_templates.md"
+      }
+    ]
+  },
+  {
+    "fileName": "sretestmig04ger Migration",
+    "relativePath": "sretestmig04ger Migration.md",
+    "tags": [
+      "🌲/👔",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "date": "2021-12-16",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scratchy Migration Process",
+        "level": 2
+      },
+      {
+        "heading": "How to setup scratchy",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "sretestmig04ger Migration",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "sre-triggers",
+    "relativePath": "sre-triggers.md",
+    "tags": [
+      "👔/❓",
+      "🌲/⚙"
+    ],
+    "frontmatter": {
+      "zet": 202201141206,
+      "date": "2022-01-14",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "sre-triggers",
+        "level": 1
+      },
+      {
+        "heading": "Setup new scratchy pod for your branch",
+        "level": 2
+      },
+      {
+        "heading": "Make changes to SRE-Triggers remotely",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia.md",
+        "displayText": ""
+      },
+      {
+        "link": "Connect to the pod"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "sre-triggers",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "sre-python-lib",
+    "relativePath": "sre-python-lib.md",
+    "tags": [
+      "👔/❓",
+      "🌲/⚙"
+    ],
+    "frontmatter": {
+      "zet": 202201141204,
+      "date": "2022-01-14",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "sre-python-lib",
+        "level": 1
+      },
+      {
+        "heading": "sre-python-lib (medallia_sre)",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "sre-python-lib",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "PROV-NG",
+        "link": "sre-python-lib#sre-python-lib medallia_sre",
+        "relativePath": "PROV-NG.md",
+        "cleanLink": "sre-python-lib",
+        "displayText": "sre-python-lib > sre-python-lib medallia_sre"
+      }
+    ]
+  },
+  {
+    "fileName": "sandboxes",
+    "relativePath": "sandboxes.md",
+    "tags": [
+      "🌲/⚙",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201121911,
+      "date": "2022-01-12",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "sandboxes",
+        "level": 1
+      },
+      {
+        "heading": "Sandboxes",
+        "level": 2
+      },
+      {
+        "heading": "QAStaging",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "sandboxes",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "reset configuration express cluster quick",
+    "relativePath": "reset configuration express cluster quick.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201241205,
+      "date": "2022-01-24",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "reset configuration express cluster quick",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2022-04-23",
+        "link": "reset configuration express cluster quick",
+        "relativePath": "periodic/daily/2022-04-23.md"
+      },
+      {
+        "fileName": "_Index_of_work",
+        "link": "reset configuration express cluster quick",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "pip",
+    "relativePath": "pip.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204201854,
+      "date": "2022-04-20",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "pip",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "pip",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2022-04-29",
+    "relativePath": "periodic/daily/2022-04-29.md"
+  },
+  {
+    "fileName": "2022-04-23",
+    "relativePath": "periodic/daily/2022-04-23.md",
+    "links": [
+      {
+        "link": "JIRA Design",
+        "relativePath": "JIRA Design.md"
+      },
+      {
+        "link": "reset configuration express cluster quick",
+        "relativePath": "reset configuration express cluster quick.md"
+      }
+    ]
+  },
+  {
+    "fileName": "password reset",
+    "relativePath": "password reset.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202181949,
+      "date": "2022-02-18",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "password reset",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "password reset",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "netscaler loadbalancer notes",
+    "relativePath": "netscaler loadbalancer notes.md",
+    "tags": [
+      "👔/❓",
+      "🌲/⚙"
+    ],
+    "frontmatter": {
+      "zet": 202201191540,
+      "date": "2022-01-19",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "netscaler loadbalancer notes",
+        "level": 1
+      },
+      {
+        "heading": "Summary",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "netscaler loadbalancer notes",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "medallia alerting",
+    "relativePath": "medallia alerting.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202071202,
+      "date": "2022-02-07",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "medallia alerting",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "medallia alerting",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "create all dc records",
+    "relativePath": "create all dc records.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202070952,
+      "date": "2022-02-07",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "create all dc records",
+        "level": 1
+      },
+      {
+        "heading": "fra1",
+        "level": 2
+      },
+      {
+        "heading": "sc4",
+        "level": 2
+      },
+      {
+        "heading": "sea1",
+        "level": 2
+      },
+      {
+        "heading": "den",
+        "level": 2
+      },
+      {
+        "heading": "ger",
+        "level": 2
+      },
+      {
+        "heading": "can",
+        "level": 2
+      },
+      {
+        "heading": "lon",
+        "level": 2
+      },
+      {
+        "heading": "yul1",
+        "level": 2
+      },
+      {
+        "heading": "syd1",
+        "level": 2
+      },
+      {
+        "heading": "sin1",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "create all dc records",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "alert manager",
+    "relativePath": "alert manager.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202081517,
+      "date": "2022-02-08",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "alert manager",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "alert manager",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Index_of_work",
+    "relativePath": "_Index_of_work.md",
+    "links": [
+      {
+        "link": "@ Larry Hartsook",
+        "relativePath": "@ Larry Hartsook.md"
+      },
+      {
+        "link": "@ Valentin Banshchikov",
+        "relativePath": "@ Valentin Banshchikov.md"
+      },
+      {
+        "link": "👔 DNS Record Layout",
+        "relativePath": "👔 DNS Record Layout.md"
+      },
+      {
+        "link": "8 Tips For Becoming A Senior Developer",
+        "relativePath": "8 Tips For Becoming A Senior Developer.md"
+      },
+      {
+        "link": "2021-12-16_11_51_59_meeting_with_mati",
+        "relativePath": "2021-12-16_11_51_59_meeting_with_mati.md"
+      },
+      {
+        "link": "Add to SREBot Documentation",
+        "relativePath": "Add to SREBot Documentation.md"
+      },
+      {
+        "link": "alert manager",
+        "relativePath": "alert manager.md"
+      },
+      {
+        "link": "ArgoCD 2",
+        "relativePath": "ArgoCD 2.md"
+      },
+      {
+        "link": "ArgoCD",
+        "relativePath": "ArgoCD.md"
+      },
+      {
+        "link": "Career",
+        "relativePath": "Career.md"
+      },
+      {
+        "link": "Central Note",
+        "relativePath": "Central Note.md"
+      },
+      {
+        "link": "Code Reviews",
+        "relativePath": "Code Reviews.md"
+      },
+      {
+        "link": "Compensation Math",
+        "relativePath": "Compensation Math.md"
+      },
+      {
+        "link": "create all dc records",
+        "relativePath": "create all dc records.md"
+      },
+      {
+        "link": "Create workplan for srebot dev environment",
+        "relativePath": "Create workplan for srebot dev environment.md"
+      },
+      {
+        "link": "Dev Tips",
+        "relativePath": "Dev Tips.md"
+      },
+      {
+        "link": "Health Insurance",
+        "relativePath": "Health Insurance.md"
+      },
+      {
+        "link": "How to use s3",
+        "relativePath": "How to use s3.md"
+      },
+      {
+        "link": "Jenkins - Automate pushing changes",
+        "relativePath": "Jenkins - Automate pushing changes.md"
+      },
+      {
+        "link": "JIRA Design",
+        "relativePath": "JIRA Design.md"
+      },
+      {
+        "link": "Kubernetes Medallia",
+        "relativePath": "Kubernetes Medallia.md"
+      },
+      {
+        "link": "Making changes to sre-python-lib",
+        "relativePath": "Making changes to sre-python-lib.md"
+      },
+      {
+        "link": "medallia alerting",
+        "relativePath": "medallia alerting.md"
+      },
+      {
+        "link": "netscaler loadbalancer notes",
+        "relativePath": "netscaler loadbalancer notes.md"
+      },
+      {
+        "link": "OCI",
+        "relativePath": "OCI.md"
+      },
+      {
+        "link": "On-Call Notes",
+        "relativePath": "On-Call Notes.md"
+      },
+      {
+        "link": "password reset",
+        "relativePath": "password reset.md"
+      },
+      {
+        "link": "pip",
+        "relativePath": "pip.md"
+      },
+      {
+        "link": "Postman",
+        "relativePath": "Postman.md"
+      },
+      {
+        "link": "PROV-NG Branch Strategy",
+        "relativePath": "PROV-NG Branch Strategy.md"
+      },
+      {
+        "link": "PROV-NG",
+        "relativePath": "PROV-NG.md"
+      },
+      {
+        "link": "reset configuration express cluster quick",
+        "relativePath": "reset configuration express cluster quick.md"
+      },
+      {
+        "link": "sandboxes",
+        "relativePath": "sandboxes.md"
+      },
+      {
+        "link": "Self Evaluation",
+        "relativePath": "Self Evaluation.md"
+      },
+      {
+        "link": "sre-python-lib",
+        "relativePath": "sre-python-lib.md"
+      },
+      {
+        "link": "sre-triggers",
+        "relativePath": "sre-triggers.md"
+      },
+      {
+        "link": "SREBot - Unit Test",
+        "relativePath": "SREBot - Unit Test.md"
+      },
+      {
+        "link": "SREBOT New Features",
+        "relativePath": "SREBOT New Features.md"
+      },
+      {
+        "link": "SREBot Redesign",
+        "relativePath": "SREBot Redesign.md"
+      },
+      {
+        "link": "SREBot Tasks",
+        "relativePath": "SREBot Tasks.md"
+      },
+      {
+        "link": "SREBot",
+        "relativePath": "SREBot.md"
+      },
+      {
+        "link": "sretestmig04ger Migration",
+        "relativePath": "sretestmig04ger Migration.md"
+      },
+      {
+        "link": "Testing sretestmig04ger migration",
+        "relativePath": "Testing sretestmig04ger migration.md"
+      },
+      {
+        "link": "Training",
+        "relativePath": "Training.md"
+      },
+      {
+        "link": "Using Helm to deploy express",
+        "relativePath": "Using Helm to deploy express.md"
+      },
+      {
+        "link": "Work Index",
+        "relativePath": "Work Index.md"
+      },
+      {
+        "link": "work kubectl",
+        "relativePath": "work kubectl.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Work Index",
+    "relativePath": "Work Index.md",
+    "tags": [
+      "👔/❓",
+      "🌲/🗺"
+    ],
+    "frontmatter": {
+      "zet": 202201161831,
+      "date": "2022-01-16",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Work",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Training",
+        "relativePath": "Training.md"
+      },
+      {
+        "link": "Kubernetes Medallia",
+        "relativePath": "Kubernetes Medallia.md"
+      },
+      {
+        "link": "Using Helm to deploy express",
+        "relativePath": "Using Helm to deploy express.md"
+      },
+      {
+        "link": "PROV-NG",
+        "relativePath": "PROV-NG.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Work Index",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Using Helm to deploy express",
+    "relativePath": "Using Helm to deploy express.md",
+    "tags": [
+      "📥/👔",
+      "🌱/⚙"
+    ],
+    "frontmatter": {
+      "zet": 202202221141,
+      "date": "2022-02-22",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Using Helm to deploy express",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Helm"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Using Helm to deploy express",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "Work Index",
+        "link": "Using Helm to deploy express",
+        "relativePath": "Work Index.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Training",
+    "relativePath": "Training.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202203151016,
+      "date": "2022-03-15",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Training",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Training",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "Work Index",
+        "link": "Training",
+        "relativePath": "Work Index.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Testing sretestmig04ger migration",
+    "relativePath": "Testing sretestmig04ger migration.md",
+    "tags": [
+      "🌲/👥",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "date": "2021-12-17",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 40
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Testing sretestmig04ger migration",
+        "level": 1
+      },
+      {
+        "heading": "[Run](https://sretestingtools.slack.com/archives/C016DBSEVGC/p1639695022006200):",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Testing sretestmig04ger migration",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Self Evaluation",
+    "relativePath": "Self Evaluation.md",
+    "tags": [
+      "🏠/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202203141202,
+      "date": "2022-03-14",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Self Evaluation",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Self Evaluation",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SREBot Tasks",
+    "relativePath": "SREBot Tasks.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204141555,
+      "date": "2022-04-14",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "SREBot Tasks",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SREBot - Unit Test",
+        "relativePath": "SREBot - Unit Test.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "SREBot Tasks",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "SREBot",
+        "link": "SREBot Tasks",
+        "relativePath": "SREBot.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SREBot",
+    "relativePath": "SREBot.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204111319,
+      "date": "2022-04-11",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "SREBot",
+        "level": 1
+      },
+      {
+        "heading": "[[Add to SREBot Documentation]]",
+        "level": 2
+      },
+      {
+        "heading": "[[SREBOT New Features]]",
+        "level": 2
+      },
+      {
+        "heading": "[[SREBot Redesign]]",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Add to SREBot Documentation",
+        "relativePath": "Add to SREBot Documentation.md"
+      },
+      {
+        "link": "SREBOT New Features",
+        "relativePath": "SREBOT New Features.md"
+      },
+      {
+        "link": "SREBot Redesign",
+        "relativePath": "SREBot Redesign.md"
+      },
+      {
+        "link": "SREBot Tasks",
+        "relativePath": "SREBot Tasks.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "SREBot",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SREBot Redesign",
+    "relativePath": "SREBot Redesign.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204131025,
+      "date": "2022-04-13",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "SREBot Redesign",
+        "level": 1
+      },
+      {
+        "heading": "Get Alert Manager",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "SREBot Redesign",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "SREBot",
+        "link": "SREBot Redesign",
+        "relativePath": "SREBot.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SREBot - Unit Test",
+    "relativePath": "SREBot - Unit Test.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204141559,
+      "date": "2022-04-14",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "!contextValue",
+        "level": 1
+      },
+      {
+        "heading": "Context",
+        "level": 2
+      },
+      {
+        "heading": "context Value",
+        "level": 2
+      },
+      {
+        "heading": "SREBot",
+        "level": 2
+      },
+      {
+        "heading": "Medallia_SRE",
+        "level": 2
+      },
+      {
+        "heading": "Unit Testing",
+        "level": 3
+      },
+      {
+        "heading": "Tenant Registry",
+        "level": 3
+      },
+      {
+        "heading": "Express Admin",
+        "level": 3
+      },
+      {
+        "heading": "Prod Deployer",
+        "level": 3
+      },
+      {
+        "heading": "Slack",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "SREBot - Unit Test",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "SREBot Tasks",
+        "link": "SREBot - Unit Test",
+        "relativePath": "SREBot Tasks.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SREBOT New Features",
+    "relativePath": "SREBOT New Features.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204131240,
+      "date": "2022-04-13",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "SREBOT New Features",
+        "level": 1
+      },
+      {
+        "heading": "CREATED JIRAS ALREADY",
+        "level": 2
+      },
+      {
+        "heading": "",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "SREBOT New Features",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "SREBot",
+        "link": "SREBOT New Features",
+        "relativePath": "SREBot.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Postman",
+    "relativePath": "Postman.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202061431,
+      "date": "2022-02-06",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Postman",
+        "level": 1
+      },
+      {
+        "heading": "Folding Response",
+        "level": 2
+      },
+      {
+        "heading": "Capturing Requests",
+        "level": 2
+      },
+      {
+        "heading": "Code snippet",
+        "level": 2
+      },
+      {
+        "heading": "Custom header",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Postman",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "PROV-NG",
+    "relativePath": "PROV-NG.md",
+    "tags": [
+      "👔/❓",
+      "🌱/🗺"
+    ],
+    "frontmatter": {
+      "zet": 202201141157,
+      "date": "2022-01-14",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "PROV-NG",
+        "level": 1
+      },
+      {
+        "heading": "PROV-NG",
+        "level": 2
+      },
+      {
+        "heading": "SRE Python Library",
+        "level": 2
+      },
+      {
+        "heading": "Argo",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia"
+      },
+      {
+        "link": "PROV-NG Branch Strategy",
+        "relativePath": "PROV-NG Branch Strategy.md"
+      },
+      {
+        "link": "sre-python-lib#sre-python-lib medallia_sre",
+        "cleanLink": "sre-python-lib",
+        "displayText": "sre-python-lib > sre-python-lib medallia_sre",
+        "relativePath": "sre-python-lib.md"
+      },
+      {
+        "link": "ArgoCD#Execute Argo Locally",
+        "cleanLink": "ArgoCD",
+        "displayText": "ArgoCD > Execute Argo Locally",
+        "relativePath": "ArgoCD.md"
+      },
+      {
+        "link": "ArgoCD#Execute Argo Remotely",
+        "cleanLink": "ArgoCD",
+        "displayText": "ArgoCD > Execute Argo Remotely",
+        "relativePath": "ArgoCD.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "PROV-NG",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "Work Index",
+        "link": "PROV-NG",
+        "relativePath": "Work Index.md"
+      },
+      {
+        "fileName": "ArgoCD",
+        "link": "PROV-NG",
+        "relativePath": "ArgoCD.md"
+      },
+      {
+        "fileName": "ArgoCD 2",
+        "link": "PROV-NG",
+        "relativePath": "ArgoCD 2.md"
+      }
+    ]
+  },
+  {
+    "fileName": "PROV-NG Branch Strategy",
+    "relativePath": "PROV-NG Branch Strategy.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202231014,
+      "date": "2022-02-23",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "PROV-NG Branch Strategy",
+        "level": 1
+      },
+      {
+        "heading": "Python Code",
+        "level": 2
+      },
+      {
+        "heading": "Go Code",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "PROV-NG Branch Strategy",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "PROV-NG",
+        "link": "PROV-NG Branch Strategy",
+        "relativePath": "PROV-NG.md"
+      }
+    ]
+  },
+  {
+    "fileName": "On-Call Notes",
+    "relativePath": "On-Call Notes.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204121147,
+      "date": "2022-04-12",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "On-Call Notes",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "On-Call Notes",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OCI",
+    "relativePath": "OCI.md",
+    "tags": [
+      "task",
+      "🌱/🗺",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201111417,
+      "date": "2022-02-08",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "OCI",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 2
+      },
+      {
+        "heading": "Training",
+        "level": 2
+      },
+      {
+        "heading": "Setup",
+        "level": 2
+      },
+      {
+        "heading": "Login",
+        "level": 2
+      },
+      {
+        "heading": "Config",
+        "level": 2
+      },
+      {
+        "heading": "S3 endpoints",
+        "level": 3
+      },
+      {
+        "heading": "aws credentials:",
+        "level": 3
+      },
+      {
+        "heading": "S3 Actions",
+        "level": 2
+      },
+      {
+        "heading": "List S3 Bucket",
+        "level": 3
+      },
+      {
+        "heading": "See contents of bucet",
+        "level": 3
+      },
+      {
+        "heading": "Copy S3 Buckets",
+        "level": 3
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia"
+      },
+      {
+        "link": "How to use s3",
+        "relativePath": "How to use s3.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "OCI",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Making changes to sre-python-lib",
+    "relativePath": "Making changes to sre-python-lib.md",
+    "tags": [
+      "🌲/👔",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "date": "2022-01-06",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Making changes to sre-python-lib",
+        "level": 1
+      },
+      {
+        "heading": "Production Changes",
+        "level": 2
+      },
+      {
+        "heading": "branch specific changes:",
+        "level": 2
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "@ Larry Hartsook",
+        "relativePath": "@ Larry Hartsook.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Making changes to sre-python-lib",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Kubernetes Medallia",
+    "relativePath": "Kubernetes Medallia.md",
+    "tags": [
+      "👔/❓",
+      "🌲/⚙"
+    ],
+    "frontmatter": {
+      "zet": 202201181524,
+      "date": "2022-01-18",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Kubernetes Medallia",
+        "level": 1
+      },
+      {
+        "heading": "DC",
+        "level": 2
+      },
+      {
+        "heading": "Find Secrets",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Kubernetes"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Kubernetes Medallia",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "Work Index",
+        "link": "Kubernetes Medallia",
+        "relativePath": "Work Index.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Jenkins - Automate pushing changes",
+    "relativePath": "Jenkins - Automate pushing changes.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202231201,
+      "date": "2022-02-23",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Jenkins - Automate pushing changes",
+        "level": 1
+      },
+      {
+        "heading": "Problem",
+        "level": 2
+      },
+      {
+        "heading": "Process",
+        "level": 2
+      },
+      {
+        "heading": "Git",
+        "level": 2
+      },
+      {
+        "heading": "Trigger",
+        "level": 2
+      },
+      {
+        "heading": "Options",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Jenkins - Automate pushing changes",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "JIRA Design",
+    "relativePath": "JIRA Design.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204131455,
+      "date": "2022-04-13",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "JIRA Design",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2022-04-23",
+        "link": "JIRA Design",
+        "relativePath": "periodic/daily/2022-04-23.md"
+      },
+      {
+        "fileName": "_Index_of_work",
+        "link": "JIRA Design",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How to use s3",
+    "relativePath": "How to use s3.md",
+    "tags": [
+      "🌲/⚙",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201121452,
+      "date": "2022-01-12",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "How to use s3",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "How to use s3",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "OCI",
+        "link": "How to use s3",
+        "relativePath": "OCI.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Health Insurance",
+    "relativePath": "Health Insurance.md",
+    "tags": [
+      "🌲/⚙",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201111231,
+      "date": "2022-01-11",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Health Insurance",
+        "level": 1
+      },
+      {
+        "heading": "Group ID/M",
+        "level": 2
+      },
+      {
+        "heading": "Insurance Card",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Health Insurance",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "Career",
+        "link": "Health Insurance",
+        "relativePath": "Career.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Compensation Math",
+    "relativePath": "Compensation Math.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204041547,
+      "date": "2022-04-04",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Compensation Math",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Compensation Math",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Create workplan for srebot dev environment",
+    "relativePath": "Create workplan for srebot dev environment.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204151428,
+      "date": "2022-04-15",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Create workplan for srebot dev environment",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Create workplan for srebot dev environment",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Career",
+    "relativePath": "Career.md",
+    "tags": [
+      "🌱/🗺",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201111217,
+      "date": "2022-01-11",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Career",
+        "level": 1
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "evan_rauner_resume.pdf"
+      },
+      {
+        "link": "Health Insurance",
+        "relativePath": "Health Insurance.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Career",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Free SSL for k8s Cert manager",
+    "relativePath": "Free SSL for k8s Cert manager.md",
+    "frontmatter": {
+      "id": "22d4f630-c7db-11ec-8da9-99384659d277",
+      "title": "Free SSL for k8s Cert manager",
+      "date": "2022-04-29",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 102
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Dev Tips",
+    "relativePath": "Dev Tips.md",
+    "tags": [
+      "🌞/📝",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201071114,
+      "date": "2022-01-07",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Dev Tips",
+        "level": 1
+      },
+      {
+        "heading": "Andre's tips",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "@ adebarbara"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Dev Tips",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Code Reviews",
+    "relativePath": "Code Reviews.md",
+    "tags": [
+      "👔/❓",
+      "🌲/📝"
+    ],
+    "frontmatter": {
+      "zet": 202201131307,
+      "date": "2022-01-13",
+      "date created": "Thursday, January 13th 2022, 1:07:00 pm",
+      "date modified": "Thursday, January 13th 2022, 1:14:21 pm",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Code Reviews",
+        "level": 1
+      },
+      {
+        "heading": "Not the Purpose of Code Review",
+        "level": 2
+      },
+      {
+        "heading": "Purpose of Code Review",
+        "level": 2
+      },
+      {
+        "heading": "How to get more out of code review",
+        "level": 2
+      },
+      {
+        "heading": "As a reviewee",
+        "level": 3
+      },
+      {
+        "heading": "As a reviewer",
+        "level": 3
+      },
+      {
+        "heading": "Questions",
+        "level": 2
+      },
+      {
+        "heading": "Tips",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "@ Arjan Codes"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Code Reviews",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Central Note",
+    "relativePath": "Central Note.md",
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Central Note",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2022-04-29T11h59m16.340s",
+    "relativePath": "2022-04-29T11h59m16.340s.md",
+    "frontmatter": {
+      "id": "b4026b40-c7dd-11ec-b7e4-2d73e7e77dd3",
+      "title": "2022-04-29T11h59m16.340s",
+      "date": "2022-04-29",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 97
+        }
+      }
+    }
+  },
+  {
+    "fileName": "ArgoCD",
+    "relativePath": "ArgoCD.md",
+    "tags": [
+      "🌱/🗺",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201121709,
+      "date": "2022-01-12",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "ArgoCD",
+        "level": 1
+      },
+      {
+        "heading": "COLO",
+        "level": 2
+      },
+      {
+        "heading": "Cloud",
+        "level": 2
+      },
+      {
+        "heading": "Changes",
+        "level": 2
+      },
+      {
+        "heading": "Execute Argo Locally",
+        "level": 3
+      },
+      {
+        "heading": "Execute Argo Remotely",
+        "level": 2
+      },
+      {
+        "heading": "Deploy per branch Scratchy",
+        "level": 2
+      },
+      {
+        "heading": "scratchy deployment yaml",
+        "level": 3
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia"
+      },
+      {
+        "link": "PROV-NG",
+        "relativePath": "PROV-NG.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "ArgoCD",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "PROV-NG",
+        "link": "ArgoCD#Execute Argo Locally",
+        "relativePath": "PROV-NG.md",
+        "cleanLink": "ArgoCD",
+        "displayText": "ArgoCD > Execute Argo Locally"
+      },
+      {
+        "fileName": "PROV-NG",
+        "link": "ArgoCD#Execute Argo Remotely",
+        "relativePath": "PROV-NG.md",
+        "cleanLink": "ArgoCD",
+        "displayText": "ArgoCD > Execute Argo Remotely"
+      }
+    ]
+  },
+  {
+    "fileName": "Add to SREBot Documentation",
+    "relativePath": "Add to SREBot Documentation.md",
+    "tags": [
+      "👔/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202204131017,
+      "date": "2022-04-13",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Add to SREBOt Documentation",
+        "level": 1
+      },
+      {
+        "heading": "Call an incident",
+        "level": 2
+      },
+      {
+        "heading": "Update Issue",
+        "level": 2
+      },
+      {
+        "heading": "Close out issue",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "Add to SREBot Documentation",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "SREBot",
+        "link": "Add to SREBot Documentation",
+        "relativePath": "SREBot.md"
+      }
+    ]
+  },
+  {
+    "fileName": "ArgoCD 2",
+    "relativePath": "ArgoCD 2.md",
+    "tags": [
+      "🌱/🗺",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "zet": 202201121709,
+      "date": "2022-01-12",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "ArgoCD",
+        "level": 1
+      },
+      {
+        "heading": "COLO",
+        "level": 2
+      },
+      {
+        "heading": "Cloud",
+        "level": 2
+      },
+      {
+        "heading": "Changes",
+        "level": 2
+      },
+      {
+        "heading": "Execute Argo Locally",
+        "level": 3
+      },
+      {
+        "heading": "Execute Argo Remotely",
+        "level": 2
+      },
+      {
+        "heading": "Deploy per branch Scratchy",
+        "level": 2
+      },
+      {
+        "heading": "scratchy deployment yaml",
+        "level": 3
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Medallia"
+      },
+      {
+        "link": "PROV-NG",
+        "relativePath": "PROV-NG.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "ArgoCD 2",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2021-12-16_11_51_59_meeting_with_mati",
+    "relativePath": "2021-12-16_11_51_59_meeting_with_mati.md",
+    "tags": [
+      "🌲/👥",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "date": "2021-12-16",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 40
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "2021-12-16_11_51_59_meeting_with_mati",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "2021-12-16_11_51_59_meeting_with_mati",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "@ Valentin Banshchikov",
+    "relativePath": "@ Valentin Banshchikov.md",
+    "tags": [
+      "🌲/👤",
+      "👔/❓"
+    ],
+    "frontmatter": {
+      "date": "2022-01-03",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "@ Valentin Banshchikov",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "@ Valentin Banshchikov",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  },
+  {
+    "fileName": "@ Larry Hartsook",
+    "relativePath": "@ Larry Hartsook.md",
+    "tags": [
+      "👔/❓",
+      "🌲/👤"
+    ],
+    "frontmatter": {
+      "date": "2022-01-06",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "@ Larry Hartsook",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "@ Larry Hartsook",
+        "relativePath": "_Index_of_work.md"
+      },
+      {
+        "fileName": "Making changes to sre-python-lib",
+        "link": "@ Larry Hartsook",
+        "relativePath": "Making changes to sre-python-lib.md"
+      }
+    ]
+  },
+  {
+    "fileName": "8 Tips For Becoming A Senior Developer",
+    "relativePath": "8 Tips For Becoming A Senior Developer.md",
+    "tags": [
+      "📥/❓",
+      "🌱/❓"
+    ],
+    "frontmatter": {
+      "zet": 202202101402,
+      "date": "2022-02-10",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8 Tips For Becoming A Senior Developer",
+        "level": 1
+      },
+      {
+        "heading": "Write Well-Designed Code",
+        "level": 3
+      },
+      {
+        "heading": "Always Maintain A Learning Mindset",
+        "level": 3
+      },
+      {
+        "heading": "Document What You Learn",
+        "level": 3
+      },
+      {
+        "heading": "Look At The Bigger Picture",
+        "level": 3
+      },
+      {
+        "heading": "Take Responsibility For Your Work",
+        "level": 3
+      },
+      {
+        "heading": "Understand The Context Of What You're Working On",
+        "level": 3
+      },
+      {
+        "heading": "Have Open Discussions",
+        "level": 3
+      },
+      {
+        "heading": "Have Side Projects",
+        "level": 3
+      },
+      {
+        "heading": "References",
+        "level": 1
+      },
+      {
+        "heading": "Incoming Links",
+        "level": 1
+      },
+      {
+        "heading": "Metadata",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "_Index_of_work",
+        "link": "8 Tips For Becoming A Senior Developer",
+        "relativePath": "_Index_of_work.md"
+      }
+    ]
+  }
+]

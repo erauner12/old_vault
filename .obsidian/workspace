@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "8bbe4561076a6991",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8c208e741854a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROV-NG.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d2fcc784a7d2e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e82bf375593ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e3ff3fdf8445ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1c1f43342f2a095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b6bf7f97c842d29",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "274f32fdc80ce5e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a920457d0713b40",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c5fd4baf044adf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18bf2051602f389",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROV-NG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9353bde17ea89689",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f46a6f7c7c463cdd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "249488784ff39605",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c71981f29f7de424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06186f9f337fc75",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e8c208e741854a9",
+  "lastOpenFiles": [
+    "PROV-NG.md",
+    "sre-python-lib.md",
+    "Central Note.md",
+    "ArgoCD.md",
+    "PROV-NG Branch Strategy.md",
+    "notes/SSL Cert Management Project.md",
+    "notes/Notes on readwise.md",
+    "notes/python prod automation.md",
+    "notes/Unit Testing Framework.md",
+    "templates/Default Note.md"
+  ]
+}

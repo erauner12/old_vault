@@ -1,0 +1,319 @@
+[
+  {
+    "tag": "🌲/👔",
+    "tagCount": 3,
+    "relativePaths": [
+      "👔 DNS Record Layout.md",
+      "sretestmig04ger Migration.md",
+      "Making changes to sre-python-lib.md"
+    ]
+  },
+  {
+    "tag": "👔/❓",
+    "tagCount": 39,
+    "relativePaths": [
+      "👔 DNS Record Layout.md",
+      "work kubectl.md",
+      "sretestmig04ger Migration.md",
+      "sre-triggers.md",
+      "sre-python-lib.md",
+      "sandboxes.md",
+      "reset configuration express cluster quick.md",
+      "pip.md",
+      "password reset.md",
+      "netscaler loadbalancer notes.md",
+      "Work Index.md",
+      "Testing sretestmig04ger migration.md",
+      "SREBot Tasks.md",
+      "SREBot.md",
+      "SREBot Redesign.md",
+      "SREBot - Unit Test.md",
+      "SREBOT New Features.md",
+      "Postman.md",
+      "PROV-NG.md",
+      "PROV-NG Branch Strategy.md",
+      "On-Call Notes.md",
+      "OCI.md",
+      "Making changes to sre-python-lib.md",
+      "Kubernetes Medallia.md",
+      "JIRA Design.md",
+      "How to use s3.md",
+      "Health Insurance.md",
+      "Compensation Math.md",
+      "Create workplan for srebot dev environment.md",
+      "Career.md",
+      "Dev Tips.md",
+      "Code Reviews.md",
+      "ArgoCD.md",
+      "Add to SREBot Documentation.md",
+      "ArgoCD 2.md",
+      "2021-12-16_11_51_59_meeting_with_mati.md",
+      "@ Valentin Banshchikov.md",
+      "@ Larry Hartsook.md"
+    ]
+  },
+  {
+    "tag": "🌲/⚙",
+    "tagCount": 8,
+    "relativePaths": [
+      "work kubectl.md",
+      "sre-triggers.md",
+      "sre-python-lib.md",
+      "sandboxes.md",
+      "netscaler loadbalancer notes.md",
+      "Kubernetes Medallia.md",
+      "How to use s3.md",
+      "Health Insurance.md"
+    ]
+  },
+  {
+    "tag": "📥/❓",
+    "tagCount": 8,
+    "relativePaths": [
+      "templates/things 3 template.md",
+      "templates/Default Note Note Composer.md",
+      "medallia alerting.md",
+      "create all dc records.md",
+      "alert manager.md",
+      "Training.md",
+      "Jenkins - Automate pushing changes.md",
+      "8 Tips For Becoming A Senior Developer.md"
+    ]
+  },
+  {
+    "tag": "🌱/✅",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/things 3 template.md"
+    ]
+  },
+  {
+    "tag": "🌱/❓",
+    "tagCount": 24,
+    "relativePaths": [
+      "templates/snippet/meta init.md",
+      "templates/Default Note Note Composer.md",
+      "reset configuration express cluster quick.md",
+      "pip.md",
+      "password reset.md",
+      "medallia alerting.md",
+      "create all dc records.md",
+      "alert manager.md",
+      "Training.md",
+      "Self Evaluation.md",
+      "SREBot Tasks.md",
+      "SREBot.md",
+      "SREBot Redesign.md",
+      "SREBot - Unit Test.md",
+      "SREBOT New Features.md",
+      "Postman.md",
+      "PROV-NG Branch Strategy.md",
+      "On-Call Notes.md",
+      "Jenkins - Automate pushing changes.md",
+      "JIRA Design.md",
+      "Compensation Math.md",
+      "Create workplan for srebot dev environment.md",
+      "Add to SREBot Documentation.md",
+      "8 Tips For Becoming A Senior Developer.md"
+    ]
+  },
+  {
+    "tag": "project",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/project_item_template.md"
+    ]
+  },
+  {
+    "tag": "🌲/🌤",
+    "tagCount": 5,
+    "relativePaths": [
+      "templates/periodic/yearly.md",
+      "templates/periodic/weekly.md",
+      "templates/periodic/quarterly.md",
+      "templates/periodic/monthly.md",
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "⌛/yearly",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/yearly.md"
+    ]
+  },
+  {
+    "tag": "⌛/weekly",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/weekly.md"
+    ]
+  },
+  {
+    "tag": "⌛/quarterly",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/quarterly.md"
+    ]
+  },
+  {
+    "tag": "⌛/monthly",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/monthly.md"
+    ]
+  },
+  {
+    "tag": "dq/sleep",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "dq/growth",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "dq/friend",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "dq/learn",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "dq/create",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "dq/exercise",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "dq/productive",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "⌛/daily",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/periodic/Daily.md"
+    ]
+  },
+  {
+    "tag": "goal",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/goal_item_template.md"
+    ]
+  },
+  {
+    "tag": "🌱/✏️",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/Template.excalidraw.md"
+    ]
+  },
+  {
+    "tag": "🌱/👔",
+    "tagCount": 1,
+    "relativePaths": [
+      "templates/Meeting Notes.md"
+    ]
+  },
+  {
+    "tag": "🌲/🗺",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work Index.md"
+    ]
+  },
+  {
+    "tag": "📥/👔",
+    "tagCount": 1,
+    "relativePaths": [
+      "Using Helm to deploy express.md"
+    ]
+  },
+  {
+    "tag": "🌱/⚙",
+    "tagCount": 1,
+    "relativePaths": [
+      "Using Helm to deploy express.md"
+    ]
+  },
+  {
+    "tag": "🌲/👥",
+    "tagCount": 2,
+    "relativePaths": [
+      "Testing sretestmig04ger migration.md",
+      "2021-12-16_11_51_59_meeting_with_mati.md"
+    ]
+  },
+  {
+    "tag": "🏠/❓",
+    "tagCount": 1,
+    "relativePaths": [
+      "Self Evaluation.md"
+    ]
+  },
+  {
+    "tag": "🌱/🗺",
+    "tagCount": 5,
+    "relativePaths": [
+      "PROV-NG.md",
+      "OCI.md",
+      "Career.md",
+      "ArgoCD.md",
+      "ArgoCD 2.md"
+    ]
+  },
+  {
+    "tag": "task",
+    "tagCount": 1,
+    "relativePaths": [
+      "OCI.md"
+    ]
+  },
+  {
+    "tag": "🌞/📝",
+    "tagCount": 1,
+    "relativePaths": [
+      "Dev Tips.md"
+    ]
+  },
+  {
+    "tag": "🌲/📝",
+    "tagCount": 1,
+    "relativePaths": [
+      "Code Reviews.md"
+    ]
+  },
+  {
+    "tag": "🌲/👤",
+    "tagCount": 2,
+    "relativePaths": [
+      "@ Valentin Banshchikov.md",
+      "@ Larry Hartsook.md"
+    ]
+  }
+]

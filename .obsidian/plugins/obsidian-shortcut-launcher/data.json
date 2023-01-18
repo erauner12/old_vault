@@ -1,0 +1,12 @@
+{
+  "launchers": [
+    {
+      "commandName": "Test",
+      "shortcutName": "Test",
+      "inputTypes": [
+        "Entire Document"
+      ],
+      "separator": ","
+    }
+  ]
+}

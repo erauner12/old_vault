@@ -1,0 +1,41 @@
+{
+  "vimMode": true,
+  "promptDelete": true,
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "defaultViewMode": "source",
+  "mobileToolbarCommands": [
+    "file-explorer:new-file",
+    "insert-template",
+    "obsidian-tasks-plugin:edit-task",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:toggle-strikethrough",
+    "editor:configure-toolbar"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "mobilePullAction": "global-search:open",
+  "foldHeading": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldIndent": false,
+  "attachmentFolderPath": "attachments",
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

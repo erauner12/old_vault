@@ -1,0 +1,22 @@
+{
+  "pluginList": [
+    "nekoshita/obsidian-auto-card-link",
+    "gavinmn/obsidian-things-link",
+    "jmilldotdev/obsidian-frontmatter-tag-suggest",
+    "coddingtonbear/obsidian-local-rest-api",
+    "daaru00/obsidian-time-tracker",
+    "alexandru-dinu/obsidian-sortable",
+    "qawatake/obsidian-local-file-interface-plugin",
+    "muness/obsidian-ics"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

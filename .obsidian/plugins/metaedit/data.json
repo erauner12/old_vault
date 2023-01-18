@@ -1,0 +1,46 @@
+{
+  "ProgressProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "IgnoredProperties": {
+    "enabled": true,
+    "properties": [
+      "date",
+      "week",
+      "month",
+      "quarter",
+      "year",
+      "timestamp"
+    ]
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "status",
+        "choices": [
+          "#🌱/📝",
+          "#🌱/👔",
+          "#🌱/🗺",
+          "#🌱/👨‍💻",
+          "#🌱/👤",
+          "#🌱/📄",
+          "#🌱/💡",
+          "#🌱/⚙"
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "All Single",
+    "properties": []
+  },
+  "KanbanHelper": {
+    "enabled": false,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": false
+  }
+}

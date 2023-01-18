@@ -1,0 +1,88 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "",
+        "folder": "periodic/daily",
+        "openAtStartup": false,
+        "templatePath": "templates/periodic/Daily.md"
+      },
+      "week": {
+        "enabled": true,
+        "format": "",
+        "folder": "periodic/weekly",
+        "openAtStartup": false,
+        "templatePath": "templates/periodic/weekly.md"
+      },
+      "month": {
+        "enabled": true,
+        "format": "",
+        "folder": "periodic/monthly",
+        "openAtStartup": false,
+        "templatePath": "templates/periodic/monthly.md"
+      },
+      "quarter": {
+        "enabled": true,
+        "format": "",
+        "folder": "periodic/quarterly",
+        "openAtStartup": false,
+        "templatePath": "templates/periodic/quarterly.md"
+      },
+      "year": {
+        "enabled": true,
+        "format": "",
+        "folder": "periodic/yearly",
+        "openAtStartup": false,
+        "templatePath": "templates/periodic/yearly.md"
+      },
+      "id": "Default",
+      "ctime": "2022-04-22T16:45:20-05:00"
+    },
+    {
+      "day": {},
+      "week": {},
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Calendar set 1",
+      "ctime": "2022-04-22T16:47:07-05:00"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": {
+    "format": "",
+    "template": "templates/periodic/Daily.md",
+    "folder": "periodic/daily",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "templates/periodic/weekly.md",
+    "folder": "periodic/weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "templates/periodic/monthly.md",
+    "folder": "periodic/monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "templates/periodic/quarterly.md",
+    "folder": "periodic/quarterly",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "templates/periodic/yearly.md",
+    "folder": "periodic/yearly",
+    "enabled": true
+  }
+}

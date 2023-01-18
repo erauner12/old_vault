@@ -1,0 +1,11 @@
+{
+  "enabledButtons": [
+    {
+      "id": "switcher:open",
+      "icon": "navigate-glyph",
+      "name": "Quick switcher: Open quick switcher",
+      "showButtons": "mobile"
+    }
+  ],
+  "desktop": false
+}

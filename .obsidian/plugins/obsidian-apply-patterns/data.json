@@ -1,0 +1,44 @@
+{
+  "patterns": [
+    {
+      "name": "refactor: increase heading level",
+      "rules": [
+        {
+          "from": "^#",
+          "to": "##",
+          "caseInsensitive": false,
+          "global": true,
+          "multiline": true,
+          "sticky": false,
+          "disabled": false
+        }
+      ],
+      "collapsed": false,
+      "cursorRegexStart": "$",
+      "cursorRegexEnd": "^"
+    },
+    {
+      "name": "refactor: decrease heading level",
+      "rules": [
+        {
+          "from": "^#",
+          "to": "",
+          "caseInsensitive": false,
+          "global": true,
+          "multiline": true,
+          "sticky": false,
+          "disabled": false
+        }
+      ],
+      "collapsed": false,
+      "cursorRegexStart": "$",
+      "cursorRegexEnd": "^"
+    }
+  ],
+  "filterString": "",
+  "commandFilterString": "",
+  "commands": [],
+  "apiVersion": 5,
+  "defaultCursorRegexEnd": "^",
+  "defaultCursorRegexStart": "$"
+}

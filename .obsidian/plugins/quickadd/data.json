@@ -1,0 +1,142 @@
+{
+  "choices": [
+    {
+      "id": "b9b4a88c-0bdb-4934-9f32-038433921f9a",
+      "name": "default",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/Default Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "7054c903-2d80-4738-806c-aba490fa5799",
+      "name": "Meeting Note Template",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/Meeting Notes.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "👔 {{DATE:YYYY-MM-DD_HH_mm}}_{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "cdb0d51f-26ea-489e-9a01-0811a3d29d33",
+      "name": "Vault Improvements",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "notes/Vault Improvements.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Vault Improvements",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "94fd7d53-9e4b-4ce0-b04c-465f2765270e",
+      "name": "Things 3 Template",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/things 3 template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "e1639351-0127-45dd-b336-97656f25d2d9",
+      "name": "Zettelizer",
+      "type": "Macro",
+      "command": true,
+      "macroId": "6f8b6e84-94d0-4d9f-af78-abe53054f51e"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Zettelizer",
+      "id": "6f8b6e84-94d0-4d9f-af78-abe53054f51e",
+      "commands": [
+        {
+          "name": "zettelizer",
+          "type": "UserScript",
+          "id": "ca5b598d-dbbe-4f26-8939-934e208625b1",
+          "path": "customjs/zettelizer.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
+}

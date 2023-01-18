@@ -1,0 +1,9 @@
+{
+  "homeNote": "Central Note",
+  "publishPath": "https://publish.obsidian.md/evan-rauner/",
+  "enableContext": true,
+  "enableOpenUrl": true,
+  "enableGithub": true,
+  "remoteUrl": "https://github.com/erauner12/pkb/tree/main/knowledge/",
+  "branch": "main"
+}

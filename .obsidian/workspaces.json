@@ -1,0 +1,217 @@
+{
+  "workspaces": {
+    "Dangling": {
+      "main": {
+        "id": "019f116af08eb9cd",
+        "type": "split",
+        "children": [
+          {
+            "id": "063dc02b91ad7528",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5a3a23d22d78312b",
+        "type": "split",
+        "children": [
+          {
+            "id": "ded313719d272f88",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d9b16523362bc2c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a18f208c58436daa",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0887fe3513be3c3b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5b04bcff5e1e56a3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "03c2c621e076b1ce",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "11f2361ab1d21c8c",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e4d89587d476f238",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395.5036334991455,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c23344435d450c22",
+        "type": "split",
+        "children": [
+          {
+            "id": "8da1d4b7cbad9824",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de4b9bbbc5ad1e91",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1c9ee612d4f9c6b6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                }
+              },
+              {
+                "id": "0a2f41a800ed3414",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d3ce4bff31b1f20e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c28a39d074501715",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1f1d3deb9964a69f",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ddb92c12844f4bc4",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "8e01ebbc3029f70e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ab8e85662f31c77",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 426.7313232421875,
+        "collapsed": true
+      },
+      "active": "063dc02b91ad7528"
+    }
+  },
+  "active": "Dangling"
+}

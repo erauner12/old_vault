@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Inputs.excalidraw",
+      "path": "Excalidraw/Inputs.excalidraw.md"
+    },
+    {
+      "type": "file",
+      "title": "vim cheatsheet",
+      "path": "notes/vim cheatsheet.md"
+    },
+    {
+      "type": "file",
+      "title": "Stream of Consciousness",
+      "path": "notes/Stream of Consciousness.md"
+    },
+    {
+      "type": "file",
+      "title": "Mac setup",
+      "path": "notes/Mac setup.md"
+    }
+  ]
+}
